@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: ""
-title: "Sanket & Mariya Love - GOD made spiritual bondage"
+title: "{Sanket & Mariya Love - GOD made spiritual bondage}"
 description: ""
 keywords: ""
 favicon: "/img/favicon.ico"
@@ -53,10 +53,11 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 5000
+delete-delay: 500
 lines: # You can add HTML Tags in the Text
   - text: "All the things are GOD orchestrated"
-  - text: "He answered my prayer & choosen you from billions for me Mariya!"
+  - text: "He answered my prayer" 
+  - text: "And choosen you from billions for me Mariya!"
 
 me-img: "/img/jetpacktocat.png"
 
